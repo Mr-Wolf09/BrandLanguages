@@ -1,0 +1,31 @@
+Fecha,Plato,horario,Total de Ventas ,Dia Semana,Dia,,nº,dia
+01/05/2023,Filete con Patatas,almuerzo,2500,1,lunes,,1,lunes
+02/05/2023,Tarta de Manzana,cena,2100,2,martes,,2,martes
+03/05/2023,Sopa de Cebolla,almuerzo,1750,3,Miercoles,,3,Miercoles
+04/05/2023,Paella Valenciana,cena,3000,4,jueves,,4,jueves
+05/05/2023,Hamburguesa con Queso,cena,2750,5,viernes,,5,viernes
+06/05/2023,Ensalada César,almuerzo,2400,6,Sabado,,6,Sabado
+07/05/2023,Filete con Patatas,cena,2200,7,domingo,,7,domingo
+08/05/2023,Tarta de Manzana,cena,1900,1,lunes,,,
+09/05/2023,Sopa de Cebolla,cena,2050,2,martes,,,
+10/05/2023,Paella Valenciana,cena,2800,3,Miercoles,,,
+11/05/2023,Hamburguesa con Queso,almuerzo,2500,4,jueves,,,
+12/05/2023,Ensalada César,cena,2300,5,viernes,,,
+13/05/2023,Filete con Patatas,cena,2600,6,Sabado,,,
+14/05/2023,Tarta de Manzana,almuerzo,2100,7,domingo,,,
+15/05/2023,Sopa de Cebolla,almuerzo,1950,1,lunes,,,
+16/05/2023,Paella Valenciana,almuerzo,3200,2,martes,,,
+17/05/2023,Hamburguesa con Queso,almuerzo,2750,3,Miercoles,,,
+18/05/2023,Ensalada César,cena,2450,4,jueves,,,
+19/05/2023,Filete con Patatas,cena,2300,5,viernes,,,
+20/05/2023,Tarta de Manzana,cena,2100,6,Sabado,,,
+21/05/2023,Sopa de Cebolla,almuerzo,1800,7,domingo,,,
+22/05/2023,Paella Valenciana,almuerzo,3100,1,lunes,,,
+23/05/2023,Hamburguesa con Queso,almuerzo,2750,2,martes,,,
+24/05/2023,Ensalada César,cena,2400,3,Miercoles,,,
+25/05/2023,Filete con Patatas,cena,2700,4,jueves,,,
+26/05/2023,Tarta de Manzana,almuerzo,2200,5,viernes,,,
+27/05/2023,Sopa de Cebolla,cena,2050,6,Sabado,,,
+28/05/2023,Paella Valenciana,cena,3300,7,domingo,,,
+29/05/2023,Hamburguesa con Queso,cena,2850,1,lunes,,,
+30/05/2023,Ensalada César,cena,2550,2,martes,,,
